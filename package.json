@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "compile-run": "^2.3.4",
+    "console-log-json": "^2.11.2",
+    "gyp": "^0.5.0",
+    "tree-sitter-cli": "^0.20.8"
+  }
+}
